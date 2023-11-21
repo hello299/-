@@ -1,0 +1,5 @@
+﻿  动态数组.cpp
+c:\users\administrator\desktop\范例\类模板\类模板\动态数组.cpp(27): error C2059: 语法错误:“}”
+  所有函数都写在类的内部.cpp
+c:\users\administrator\desktop\范例\类模板\类模板\所有函数都写在类的内部.cpp(79): error C2143: 语法错误: 缺少“;”(在“Father::{ctor}”的前面)
+  正在生成代码...

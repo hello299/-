@@ -1,0 +1,2 @@
+﻿  函数模板.cpp
+LINK : fatal error LNK1181: 无法打开输入文件“Release\函数模板.obj”
