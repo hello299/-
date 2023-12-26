@@ -1,0 +1,6 @@
+﻿  CircleList.cpp
+  main.cpp
+  正在生成代码...
+c:\users\administrator\desktop\循环链表\循环链表\循环链表\circlelist.cpp(25): warning C4715: “CircleList_Creat”: 不是所有的控件路径都返回值
+c:\users\administrator\desktop\循环链表\循环链表\循环链表\circlelist.cpp(245): warning C4715: “CircleList_Current”: 不是所有的控件路径都返回值
+  循环链表.vcxproj -> C:\Users\Administrator\Desktop\循环链表\循环链表\Debug\循环链表.exe
